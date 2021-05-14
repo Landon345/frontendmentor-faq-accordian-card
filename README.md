@@ -23,8 +23,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-H56JMikZ6)
-- Live Site URL: [Github Pages Link](https://landon345.github.io/frontendmentor-social-proof-section/)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/faqs-accordian-card-UJ4CHpi8T)
+- Live Site URL: [Github Pages Link](https://landon345.github.io/frontendmentor-faq-accordian-card/)
 
 ## My process
 
